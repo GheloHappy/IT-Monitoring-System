@@ -1,0 +1,12 @@
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.Domain\bin\Debug\net6.0-windows\ITMonitoring.Domain.deps.json
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.Domain\bin\Debug\net6.0-windows\ITMonitoring.Domain.dll
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.Domain\bin\Debug\net6.0-windows\ITMonitoring.Domain.pdb
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.Domain\obj\Debug\net6.0-windows\ITMonitoring.Domain.csproj.AssemblyReference.cache
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.Domain\obj\Debug\net6.0-windows\ITMonitoring.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.Domain\obj\Debug\net6.0-windows\ITMonitoring.Domain.AssemblyInfoInputs.cache
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.Domain\obj\Debug\net6.0-windows\ITMonitoring.Domain.AssemblyInfo.cs
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.Domain\obj\Debug\net6.0-windows\ITMonitoring.Domain.csproj.CoreCompileInputs.cache
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.Domain\obj\Debug\net6.0-windows\ITMonitoring.Domain.dll
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.Domain\obj\Debug\net6.0-windows\refint\ITMonitoring.Domain.dll
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.Domain\obj\Debug\net6.0-windows\ITMonitoring.Domain.pdb
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.Domain\obj\Debug\net6.0-windows\ref\ITMonitoring.Domain.dll

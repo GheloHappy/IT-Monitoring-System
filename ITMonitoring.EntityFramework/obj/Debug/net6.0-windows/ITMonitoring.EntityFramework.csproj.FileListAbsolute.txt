@@ -1,0 +1,17 @@
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.EntityFramework\bin\Debug\net6.0-windows\ITMonitoring.EntityFramework.deps.json
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.EntityFramework\bin\Debug\net6.0-windows\ITMonitoring.EntityFramework.runtimeconfig.json
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.EntityFramework\bin\Debug\net6.0-windows\ITMonitoring.EntityFramework.dll
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.EntityFramework\bin\Debug\net6.0-windows\ITMonitoring.EntityFramework.pdb
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.EntityFramework\bin\Debug\net6.0-windows\ITMonitoring.Domain.dll
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.EntityFramework\bin\Debug\net6.0-windows\ITMonitoring.Domain.pdb
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.EntityFramework\obj\Debug\net6.0-windows\ITMonitoring.EntityFramework.csproj.AssemblyReference.cache
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.EntityFramework\obj\Debug\net6.0-windows\ITMonitoring.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.EntityFramework\obj\Debug\net6.0-windows\ITMonitoring.EntityFramework.AssemblyInfoInputs.cache
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.EntityFramework\obj\Debug\net6.0-windows\ITMonitoring.EntityFramework.AssemblyInfo.cs
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.EntityFramework\obj\Debug\net6.0-windows\ITMonitoring.EntityFramework.csproj.CoreCompileInputs.cache
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.EntityFramework\obj\Debug\net6.0-windows\ITMonitoring.EntityFramework.csproj.CopyComplete
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.EntityFramework\obj\Debug\net6.0-windows\ITMonitoring.EntityFramework.dll
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.EntityFramework\obj\Debug\net6.0-windows\refint\ITMonitoring.EntityFramework.dll
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.EntityFramework\obj\Debug\net6.0-windows\ITMonitoring.EntityFramework.pdb
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.EntityFramework\obj\Debug\net6.0-windows\ITMonitoring.EntityFramework.genruntimeconfig.cache
+D:\2. Working Projects\IT-Monitoring\ITMonitoring.EntityFramework\obj\Debug\net6.0-windows\ref\ITMonitoring.EntityFramework.dll
